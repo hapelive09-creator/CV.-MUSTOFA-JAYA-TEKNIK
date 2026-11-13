@@ -1,0 +1,6 @@
+{
+  "name": "CV. Mustofa Jaya Teknik - Manajemen Rewinding",
+  "description": "Sistem manajemen operasional bengkel rewinding motor listrik, generator, dan trafo CV. Mustofa Jaya Teknik mencakup SPK, data teknis gulungan, uji QC & megger, stok kawat email, dan invoice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
